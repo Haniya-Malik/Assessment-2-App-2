@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Mindset</string>
+    <string name="login">LOGIN</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="refresh">Refresh</string>
+    <string name="quote">TextView</string>
+    <string name="your_time_is_limited_so_don_t_waste_it_living_someone_else_s_life_don_t_be_trapped_by_dogma_which_is_living_with_the_results_of_other_people_s_thinking">Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma – which is living with the results of other people\'s thinking.</string>
+    <string name="steve_jobs">~ Steve Jobs</string>
+    <string-array name="quotes">
+        <item>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</item>
+        <item>The only way to do great work is to love what you do.</item>
+        <item>The mind is everything; what you think you become.</item>
+        <item>Believe you can and you\'re halfway there.</item>
+        <item>The greatest glory in living lies not in never falling, but in rising every time we fall.</item>
+        <item>If you look at what you have in life, you\'ll always have more. If you look at what you don\'t have in life, you\'ll never have enough</item>
+        <item>Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma – which is living with the results of other people\'s thinking.</item>
+        <item>Don\'t judge each day by the harvest you reap but by the seeds that you plant</item>
+        <item>The future belongs to those who believe in the beauty of their dreams.</item>
+        <item>You will face many defeats in life, but never let yourself be defeated.</item>
+        <item>Many of life\'s failures are people who did not realize how close they were to success when they gave up.</item>
+        <item>In the end, it\'s not the years in your life that count. It\'s the life in your years.</item>
+        <item>Do not let making a living prevent you from making a life.</item>
+        <item>Keep smiling, because life is a beautiful thing and there\'s so much to smile about.</item>
+    </string-array>
+    <string-array name="authors">
+        <item>~ Helen Keller</item>
+        <item>~ Steve Jobs</item>
+        <item>~ Buddha</item>
+        <item>~ Theodore Roosevelt</item>
+        <item>~ Nelson Mandela</item>
+        <item>~ Oprah Winfrey</item>
+        <item>~ Steve Jobs</item>
+        <item>~ Robert Louis Stevenson</item>
+        <item>~ Eleanor Roosevelt</item>
+        <item>~ Maya Angelou</item>
+        <item>~ Thomas A. Edison</item>
+        <item>~ Abraham Lincoln</item>
+        <item>~ John Wooden</item>
+        <item>~ Marilyn Monroe</item>
+    </string-array>
+</resources>
